@@ -1,0 +1,43 @@
+/*  footer section  */
+
+#footer{
+  display: block;
+  width: 534px;
+  margin-left: auto;
+}
+
+
+/*  heading section  */
+
+.heading h1 {
+
+    margin: 55px 14px 0px 333px;
+
+}
+.heading p{
+  margin: 0px 0px 131px 290px;
+}
+
+.heading h2{
+      margin: 0px 0px 16px 318px;
+
+}
+
+/*  navbar section */
+.navbar{
+  justify-content: flex-start;
+  font-size: 3rem;
+}
+
+
+/*  tool image  */
+.tool-image{
+  margin: 55px 0px 0px 277px;
+}
+
+
+/*  shop noow button  */
+.shop-now{
+  margin: 39px 368px;
+
+}

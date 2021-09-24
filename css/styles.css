@@ -1,0 +1,144 @@
+/*  body  */
+*{
+  margin: 0px ;
+  padding:0px;
+
+}
+body{
+    overflow-x: hidden;
+}
+
+/*  footer section  */
+
+#footer{
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+#footer .btn{
+  color: white ;
+  margin: 4px  91px  4px 30px;
+
+  padding-right: 40px;
+  padding-left: 40px;
+  border: 2px solid #ffc107;
+  border-radius: 10px;
+}
+
+.contact{
+  color: #ffc107;
+
+}
+.Contact{
+
+      margin-right: 10px;
+}
+
+/* nav section  */
+.nav li {
+margin-right: 20px;
+  color: black;
+
+}
+.nav li a {
+color: black;
+  font-weight: 600;
+  font-size: 1rem;
+
+}
+.nav li a:hover {
+  text-decoration: underline;
+  color: #ffc107;
+
+}
+
+.nav-item  i {
+  margin-left: 35px;
+}
+.nav{
+  box-shadow: 2px 0px 9px 0px #ffc107;
+  box-sizing: border-box;
+}
+
+
+/* tools - navbar section */
+
+.navbar{
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+
+}
+.navbar li {
+  margin-right: 64px;
+    color: black;
+}
+.navbar li a{
+color: black;
+font-weight: 600;
+font-size: 1rem;
+}
+.navbar  li a:hover {
+  text-decoration: underline;
+  color: #ffc107;
+
+}
+
+
+/*  form */
+
+ form .btn{
+  margin: 0px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: 73px;
+background-color: #ffc107;
+color: white;
+
+}
+ .form-control{
+  box-shadow: inset 0px 0px 9px 1px #ffc107;
+}
+.tool-image{
+  width: 400px;
+  margin: 55px 0px 0px 147px;
+  height: auto;
+}
+
+
+
+/*  last section of tool an theory(heading section)   */
+.heading{
+  background-image: url("../images/home.svg");
+  border-radius: 70px;
+}
+
+.heading h1 {
+  text-align: center;
+    width: 300px;
+    margin: 55px 14px 0px 125px;
+
+}
+.heading p {
+  text-align: center;
+      width: 300px;
+      margin: 0px 0px 131px 119px;
+}
+.heading h2{
+  text-align: center;
+      width: 300px;
+      margin: 0px 0px 16px 119px;
+      color: white ;
+}
+
+/* buttton */
+.shop-now{
+  margin: 39px 222px;
+  border: 2px solid  #ffc107;
+width: 200px ;
+height: 70px ;
+font-size: 2rem;
+border-radius: 40px;
+color: white ;
+
+}
